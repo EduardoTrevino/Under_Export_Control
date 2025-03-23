@@ -1,6 +1,6 @@
 # 🚫 Classified Project
 
-![Classified](img.png)
+![Classified](img.jpeg)
 
 Hi there! 👋
 
